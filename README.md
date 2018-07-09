@@ -1,2 +1,3 @@
-# Summer2018
-Deep Learning Summer School 2018
+# Summer 2018
+IEC Lab 暑假深度学习
+
